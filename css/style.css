@@ -1,0 +1,266 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	
+}
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+body{
+	background-color: #f6f9f9;
+	font-family: 'Lato', sans-serif;
+}
+header{
+	width: 100%;
+	float: left;
+	padding: 10px 0PX;
+}
+.logo{
+	padding: 30px;
+}
+.logo img{
+
+}
+.banner{
+	width: 100%;
+	float: left;
+	padding: 20px 0px;
+	background-image: url(../img/banner.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.banner-main{
+	padding-top: 210px;
+	width: 60%;
+	margin: 0 auto;
+	text-align: center;
+}
+.banner-main h2{
+	font-size: 110px;
+	color: #fff;
+}
+.banner-main span{
+	border-bottom: 2px solid #15a4fa;
+	display: block;
+	width: 85%;
+	margin: 10px auto;
+}
+.banner-main p{
+	font-size: 20px;	
+	color: #fff;
+	margin: 30px 0px;
+}
+.btn{
+	background: transparent;
+	color: #fff;
+	border: 1px solid #15a4fa;
+	padding: 10px 27px;
+	margin-top: 30px;
+	font-size: 18px;
+}
+.icon{
+	width: 60%;
+	margin: 0 auto;
+	text-align: center;
+	color: #fff;
+	margin-top: 170px;
+	padding-bottom: 90px;
+}
+.detail{
+	width: 100%;
+	float: left;
+	padding: 20px 0px;
+}
+.detail-content{
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+}
+.detail-content h2{
+	font-size: 40px;
+	color: #2d3950;
+	padding-top: 60px;
+}
+.detail-content p{
+	font-size: 18px;
+	padding-top: 30px;
+	color: #9da5a5;
+	padding-bottom: 20px;
+}
+.third-part{
+	width: 100%;
+	float: left;
+	padding: 20px 0px;
+	background-color: #fff;
+}
+.third-part-detail{
+	width: 30%;
+	float: left;
+	margin: 15px;
+	text-align: center;
+	padding-bottom: 30px;
+}
+.third-part-detail h3{
+	margin: 20px 0px;
+	color: #2d3950;
+	font-size: 22px;
+}
+.third-part-detail p{
+	font-size: 15px;
+	color: #9da5a5;
+}
+.fa.fa-mobile{
+	font-size: 60px;
+	background-color: #8dccf2;
+	padding: 20px 37px;
+}
+.fa.fa-paper-plane-o{
+	font-size: 60px;
+	padding: 20px 20px;
+	background-color: #8dccf2;
+}
+.fa.fa-bullhorn{
+	font-size: 60px;
+	padding: 20px 20px;
+	background-color: #8dccf2;
+}
+.forth-part{
+	width: 100%;
+	float: left;
+	padding-top: 20px;
+	padding-bottom: 60px;
+}
+.forth-part-title{
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+}
+.forth-part-title h2{
+	font-size: 40px;
+	color: #2d3950;
+	margin: 20px 0px;
+}
+.forth-part-title p{
+	font-size: 15px;
+	color: #9da5a5;
+	margin: 20px 0px 40px;
+}
+.forth-part-line1{
+	width: 100%;
+	float: left;
+}
+.forth-part-line1 img{
+	width: 31%;
+	padding: 10px;
+}
+.forth-part-line2{
+	width: 100%;
+	float: left;
+}
+.forth-part-line2 img{
+	width: 31%;
+	padding: 10px;
+}
+.last-part{
+	background-image: url(../img/last.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	float: left;
+	color: #fff;
+	padding-top: 20px;
+	padding-bottom: 100px;
+}
+.last-part-title{
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+}
+.last-part-title h2{
+	font-size: 40px;
+	color: #fff;
+	margin: 20px 0px;
+}
+.last-part-title p{
+	color: #686b73;
+	font-size: 15px;
+	margin: 15px 0px;
+}
+.last-part-form{	
+	width: 50%;
+	margin: 0 auto;
+}
+.last-part-form input{	
+	width: 100%;
+	padding: 18px 8px;
+	margin: 10px;
+	background: transparent;
+	color: #686b73;
+	border: 1px solid #7a7070;
+}
+.Massagebox{
+	width:100%;
+	margin: 10px;
+	padding: 18px 8px;
+	background: transparent;
+	color: #686b73;
+	border: 1px solid #7a7070;
+	margin: 10px;
+	height: 100px;
+}
+.checkpart{
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+.checkpart1{
+	width: 67%;
+	float: left;
+	padding: 10px 0px;
+}
+.checkpart2{
+	width: 11%;
+	float: left;
+}
+.checkpart2 button{
+	padding: 10px 35px;
+	background-color: transparent;
+	border: 1px solid #15a4fa;
+	color: #fff;
+}
+footer{
+	padding: 12px 0px;
+	width: 100%;
+	float: left;
+}
+.copyright{
+	width: 77%;
+	float: left;
+}
+.copyright p{
+	color:  #9da5a5;
+	padding: 15px 50px;
+}
+.social-icon{
+	width: 20%;
+	float: left;
+}
+.social-icon ul{
+	list-style: none;
+}
+.social-icon ul li{
+	padding: 10px 13px;
+	margin: 3px 3px;
+	display: inline-block;
+	font-size: 20px;
+	background: #599fca;
+	color: #fff;
+}
+.social-icon ul li i{
+
+}
+
+
+
+
